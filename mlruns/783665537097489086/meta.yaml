@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/Experiment_Tracking_MLFlow/mlruns/783665537097489086
+creation_time: 1675848528656
+experiment_id: '783665537097489086'
+last_update_time: 1675848528656
+lifecycle_stage: active
+name: loan_status_mlflow_exp_1

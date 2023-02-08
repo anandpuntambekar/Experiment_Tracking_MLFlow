@@ -1,0 +1,18 @@
+Here are the steps to use ngrok to expose your localhost website to the internet using only the terminal:
+
+Download ngrok: You can download ngrok using the following command:
+
+curl https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip -o ngrok.zip
+
+Unzip ngrok: Use the following command to unzip the ngrok archive:
+
+unzip ngrok.zip
+
+
+Start ngrok: Run the following command to start ngrok and expose your localhost website on port 5000:
+
+./ngrok http 5000
+This will start a tunnel to your localhost website and display a public URL that you can use to access it from any other machine.
+
+Access the website: Use the public URL provided by ngrok to access the website in a web browser. The URL will be in the format http://XXXXXXXX.ngrok.io, where XXXXXXXX is a unique identifier assigned by ngrok.
+Note: Keep the terminal running while you want to access the website from the internet. If you close the terminal or stop ngrok, the public URL will no longer work.
