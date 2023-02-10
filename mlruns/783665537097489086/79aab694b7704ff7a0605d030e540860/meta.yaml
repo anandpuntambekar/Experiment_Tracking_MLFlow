@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Experiment_Tracking_MLFlow/mlruns/783665537097489086/79aab694b7704ff7a0605d030e540860/artifacts
+end_time: 1675931136474
+entry_point_name: ''
+experiment_id: '783665537097489086'
+lifecycle_stage: active
+run_id: 79aab694b7704ff7a0605d030e540860
+run_name: hyperparameter_run_2
+run_uuid: 79aab694b7704ff7a0605d030e540860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675931134401
+status: 3
+tags: []
+user_id: codespace

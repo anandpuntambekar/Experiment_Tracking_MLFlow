@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Experiment_Tracking_MLFlow/mlruns/783665537097489086/993da2b9846940eabf7d9af7698a308c/artifacts
+end_time: 1676009961017
+entry_point_name: ''
+experiment_id: '783665537097489086'
+lifecycle_stage: active
+run_id: 993da2b9846940eabf7d9af7698a308c
+run_name: KNN
+run_uuid: 993da2b9846940eabf7d9af7698a308c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676009958843
+status: 3
+tags: []
+user_id: codespace
