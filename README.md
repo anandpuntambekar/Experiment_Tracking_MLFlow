@@ -25,4 +25,5 @@ We will be using the ML Flow library to keep track of all the relevant informati
 - Store the code and models in a centralized repository for easy access
 
 ## Code
-- The code below is a sample experiment to classify loan applicants using the Random Forest algorithm. The code includes data processing, feature engineering, model training, and cross-validation.
+- The code Experiment_Tracking_MLFlow.ipynb is a sample experiment to classify loan applicants using the Random Forest algorithm. The code includes data processing, feature engineering, model training, and cross-validation.
+ - It also contains images / snapshots to view the results as shown in mlflow
